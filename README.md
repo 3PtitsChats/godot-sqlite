@@ -2,7 +2,7 @@
 
 ![Godot SQLite banner](icon/godot-sqlite-banner-4.x.png?raw=true "Godot SQLite Banner")
 
-# godot-sqlite
+# godot-sqlite 
 
 This GDNative script aims to serve as a custom wrapper that makes SQLite3 available in Godot 4.0+. Additionally, it
 does not require any additional compilation or mucking about with build scripts.
